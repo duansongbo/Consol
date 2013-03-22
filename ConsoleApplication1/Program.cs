@@ -13,8 +13,6 @@ namespace ConsoleApplication1 {
     class Program {
         static void Main() {
 
-            DateTime dt = Convert.ToDateTime(null);
-
         }
 
     }
